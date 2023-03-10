@@ -1,0 +1,131 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Deb",
+      "lastName": "Bhattacharjee",
+      "email": "debankurhattacharjee784@gmail.com",
+      "mobile": "7980920722",
+      "weight": 70,
+      "height": 3,
+      "bmi": 7.777777777777778,
+      "bmiResult": "UnderWeight",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "beenGymBefore": "No",
+      "enquiryDate": "2023-03-24T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "CAllum",
+      "email": "debankurhattacharjee784@gmail.com",
+      "mobile": "+917980920722",
+      "weight": 56,
+      "height": 1.6,
+      "bmi": 21.874999999999996,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "beenGymBefore": "No",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Lewis",
+      "email": "bob@gmail.com",
+      "mobile": "07980920722",
+      "weight": 70,
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Healthier Digestive System"
+      ],
+      "beenGymBefore": "Yes",
+      "enquiryDate": "2023-03-30T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Saurabh",
+      "lastName": "Das",
+      "email": "saurabh.das@gmail.com",
+      "mobile": "734673462847",
+      "weight": 70,
+      "height": 1.7,
+      "bmi": 24.221453287197235,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "beenGymBefore": "No",
+      "enquiryDate": "2023-03-10T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "firstName": "Arnab",
+      "lastName": "Banerjee",
+      "email": "Arnab@gmail.com",
+      "mobile": "657656756",
+      "weight": 60,
+      "height": 1.5,
+      "bmi": 26.666666666666668,
+      "bmiResult": "OverWeight",
+      "gender": "Male",
+      "requiredTrainer": "No",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "beenGymBefore": "Yes",
+      "enquiryDate": "2023-03-08T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "Debanjan ",
+      "lastName": "Bhattacharjee",
+      "email": "abc@gmail.com",
+      "mobile": "7234678658",
+      "weight": 69,
+      "height": 1.8,
+      "bmi": 21.296296296296294,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Sugar Craving Body"
+      ],
+      "beenGymBefore": "No",
+      "enquiryDate": "2023-03-07T18:30:00.000Z",
+      "id": 9
+    }
+  ]
+}
